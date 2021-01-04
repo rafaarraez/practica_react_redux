@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/practica_react_redux/static/css/main.1b5f1de5.chunk.css",
+    "main.js": "/practica_react_redux/static/js/main.ca1e3af6.chunk.js",
+    "main.js.map": "/practica_react_redux/static/js/main.ca1e3af6.chunk.js.map",
+    "runtime-main.js": "/practica_react_redux/static/js/runtime-main.3a038562.js",
+    "runtime-main.js.map": "/practica_react_redux/static/js/runtime-main.3a038562.js.map",
+    "static/css/2.f3cffc9e.chunk.css": "/practica_react_redux/static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.8b9b2abf.chunk.js": "/practica_react_redux/static/js/2.8b9b2abf.chunk.js",
+    "static/js/2.8b9b2abf.chunk.js.map": "/practica_react_redux/static/js/2.8b9b2abf.chunk.js.map",
+    "index.html": "/practica_react_redux/index.html",
+    "precache-manifest.1ccc0b2b53eeca5d49f42bc6de49f90c.js": "/practica_react_redux/precache-manifest.1ccc0b2b53eeca5d49f42bc6de49f90c.js",
+    "service-worker.js": "/practica_react_redux/service-worker.js",
+    "static/css/2.f3cffc9e.chunk.css.map": "/practica_react_redux/static/css/2.f3cffc9e.chunk.css.map",
+    "static/css/main.1b5f1de5.chunk.css.map": "/practica_react_redux/static/css/main.1b5f1de5.chunk.css.map",
+    "static/js/2.8b9b2abf.chunk.js.LICENSE.txt": "/practica_react_redux/static/js/2.8b9b2abf.chunk.js.LICENSE.txt",
+    "static/media/pokemon.jpg": "/practica_react_redux/static/media/pokemon.f84be7bb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a038562.js",
+    "static/css/2.f3cffc9e.chunk.css",
+    "static/js/2.8b9b2abf.chunk.js",
+    "static/css/main.1b5f1de5.chunk.css",
+    "static/js/main.ca1e3af6.chunk.js"
+  ]
+}
